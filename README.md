@@ -1,6 +1,6 @@
 # EasySCEWIN
 
-**easy_scewin** は、AMI BIOS 設定ファイルを Windows Forms (.NET Framework 4.8) 上で編集・適用できる軽量ツールです。SCEWIN を内蔵しており、手動操作は一切不要。起動時に自動で設定をエクスポートし、編集後はボタン一つでインポート可能です。
+**easy_scewin** は、AMI BIOS 設定ファイルを Windows Forms (.NET Framework 4.8) 上で編集・適用できる軽量ツールです。SCEWIN を内蔵しており、起動時に自動で設定をエクスポートし、編集後はボタン一つでインポート可能です。
 
 ## 🔧 特徴
 
